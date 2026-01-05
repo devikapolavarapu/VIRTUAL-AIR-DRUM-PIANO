@@ -57,24 +57,24 @@ The project is **modular, scalable, and designed with extensibility in mind**.
 python main.py
 ```
 
-4️⃣ 🎹 Piano Mode
-
+### 4️⃣ 🎹 Piano Mode
 Piano Mode extends the same gesture pipeline to a melodic instrument.
 
 The screen is divided into seven virtual piano keys:
 
+
 C   D   E   F   G   A   B
-
-
 Each key corresponds to a musical note frequency.
 A fingertip tap on a key triggers the respective piano note.
 
 This mode demonstrates project extensibility without rewriting core logic.
 
 ▶️ Run Piano Mode
-``` python piano_mode.py ```
+```
+python piano_mode.py
+```
+### 5️⃣ 🛠️ Tech Stack
 
-5️⃣ 🛠️ Tech Stack
 Category	Technologies
 Programming Language	Python 3.10+
 Computer Vision	OpenCV
@@ -82,9 +82,9 @@ Hand Tracking	MediaPipe
 Audio Engine	pygame
 Numerical Computing	NumPy
 Version Control	Git & GitHub
-6️⃣ ▶️ How to Run the Project
-🔹 Prerequisites
 
+### 6️⃣ ▶️ How to Run the Project
+🔹 Prerequisites
 Python 3.10 or higher
 
 Functional webcam
@@ -92,16 +92,18 @@ Functional webcam
 Windows / macOS / Linux
 
 🔹 Install Dependencies
-```pip install opencv-python mediapipe pygame numpy```
-
+```
+pip install opencv-python mediapipe pygame numpy
+```
 🔹 Run Drum Mode
-```python main.py```
-
+```
+python main.py
+```
 🔹 Run Piano Mode
-```python piano_mode.py```
-
-7️⃣ 🎮 How to Use
-
+```
+python piano_mode.py
+```
+### 7️⃣ 🎮 How to Use
 Place your hand in front of the webcam
 
 Use your index finger
@@ -112,13 +114,11 @@ Move left ↔ right to select instruments or notes
 
 Press `q` to exit
 
-8️⃣ 👩‍💻 Author
-
-Devika Polavarapu, 
+### 8️⃣ 👩‍💻 Author
+Devika Polavarapu,
  B.Tech – Information Technology
 
 Interests:
-
 Computer Vision
 
 AI & Human–Computer Interaction
@@ -126,3 +126,4 @@ AI & Human–Computer Interaction
 Real-world software systems
 
 🔗 GitHub: https://github.com/devikapolavarapu
+
