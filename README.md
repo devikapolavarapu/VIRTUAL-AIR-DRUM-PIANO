@@ -114,10 +114,10 @@ Press `q` to exit
 
 8️⃣ 👩‍💻 Author
 
-Devika Polavarapu
-B.Tech – Information Technology
+Devika Polavarapu, 
+ B.Tech – Information Technology
 
-Interests
+Interests:
 
 Computer Vision
 
